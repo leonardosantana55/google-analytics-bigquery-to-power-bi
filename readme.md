@@ -1,0 +1,1 @@
+Utilize esta query para importar para o Power BI dados tranferidos do Google Analytics para o Big Query
